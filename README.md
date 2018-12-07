@@ -3,6 +3,10 @@
 ***计算机的通信应该对用户透明和被完全掌控***
 
 <h1 align="center">
+    <a href="https://kailanguage.github.io/netlook">NetLook网站介绍</a>
+</h1>
+
+<h1 align="center">
     <img src="/image/pic02.png" width="500" height="484">
 </h1>
 
@@ -56,6 +60,7 @@ A: 请将编译器编码UTF-8改为GBK.
 2022 代码重构
 
 ## TAGS
+[![](https://img.shields.io/badge/%E5%AE%98%E6%96%B9-%E7%BD%91%E7%AB%99-orange.svg)](https://kailanguage.github.io/netlook)
 [![](https://img.shields.io/badge/blog-kailanguage-blue.svg)](https://kailanguage.github.io)
 ![](https://img.shields.io/badge/ver-1.0.0-yellow.svg)
 ![](https://img.shields.io/badge/JavaFX-2.0-green.svg)
