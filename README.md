@@ -15,12 +15,19 @@
 ## VERSION 
 
 V1.0.0 Demo 大体界面及查看网络状态（当前项目版本）
+
 <strike>V1.1.0 实现定位产生连接的文件位置</strike>
+
 <strike>V1.2.0 杀死进程</strike>
+
 <strike>V1.3.0 关闭端口</strike>
+
 <strike>V1.5.0 网络优化和修复</strike>
+
 <strike>V1.6.0 多平台兼容</strike>
+
 <strike>V1.8.0 对远程ip进行云端检测</strike>
+
 <strike>V2.0.0  深度包检测及日记功能</strike>
 
 
