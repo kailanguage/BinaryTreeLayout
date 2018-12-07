@@ -1,8 +1,7 @@
 # NetLook
 
-<p align="center">
-<big>计算机的通信应该对用户透明和被完全掌控</big>
-</p>
+***计算机的通信应该对用户透明和被完全掌控***
+
 <h1 align="center">
     <img src="/image/pic02.png" width="500" height="484">
 </h1>
