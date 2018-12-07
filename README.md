@@ -1,7 +1,9 @@
 # NetLook
 通信状态查看，查看当前的连接，定位连接文件，发现可疑连接并kill掉进程
 
-![demo](/image/pic02.png)
+<h1 align="center">
+    <img src="/image/pic02.png" width="500" height="484">
+</h1>
 
 ## INSTALL
 
