@@ -12,6 +12,18 @@
 * 运行样例：[NetLook.jar](https://github.com/kailanguage/NetLook/blob/master/NetLook.jar)  demo版本仅在windows上正常运行
 * 运行源码：[NetLook](https://github.com/kailanguage/NetLook/tree/master/NetLook)  使用可以编译JavaFX的编译器编译源码
 
+## VERSION 
+
+V1.0.0 Demo 大体界面及查看网络状态（当前项目版本）
+<strike>V1.1.0 实现定位产生连接的文件位置</strike>
+<strike>V1.2.0 杀死进程</strike>
+<strike>V1.3.0 关闭端口</strike>
+<strike>V1.5.0 网络优化和修复</strike>
+<strike>V1.6.0 多平台兼容</strike>
+<strike>V1.8.0 对远程ip进行云端检测</strike>
+<strike>V2.0.0  深度包检测及日记功能</strike>
+
+
 ## FAQ
 ***Q: 为什么软件在mac上无法查看网络信息？***
 
@@ -29,8 +41,16 @@ A: 请将编译器编码UTF-8改为GBK.
 
 本项目由目前仅由kailang开发，如果你对此项目感兴趣的话，可以一起将该项目进行到底！
 
+## PLAN
+
+2018.12.5~2018.12.6 大体界面及预设相关功能V1（已完成）
+2019 ~2020 迭代到V1.6.0版本
+2021 完成所有预设功能
+2022 代码重构
+
 ## TAGS
 [![](https://img.shields.io/badge/blog-kailanguage-blue.svg)](https:kailanguage.github.io)
+![](https://img.shields.io/badge/ver-1.0.0-yellow.svg)
 ![](https://img.shields.io/badge/JavaFX-2.0-green.svg)
 [![GitHub license](https://img.shields.io/github/license/kailanguage/NetLook.svg)](https://github.com/kailanguage/NetLook/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/kailanguage/NetLook.svg)](https://github.com/kailanguage/NetLook/issues)
