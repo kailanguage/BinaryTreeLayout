@@ -1,6 +1,8 @@
 # NetLook
-通信状态查看，查看当前的连接，定位连接文件，发现可疑连接并kill掉进程
 
+<p align="center">
+<big>计算机的通信应该对用户透明和被完全掌控</big>
+</p>
 <h1 align="center">
     <img src="/image/pic02.png" width="500" height="484">
 </h1>
