@@ -6,19 +6,19 @@
 ## INSTALL
 
 * 环境要求：JDK1.8版本以上
-* 运行样例：![NetLook.jar](https://github.com/kailanguage/NetLook/blob/master/NetLook.jar)demo版本仅在windows上正常运行
-* 运行源码：![NetLook](https://github.com/kailanguage/NetLook/tree/master/NetLook)使用可以编译JavaFX的编译器编译源码
+* 运行样例：[NetLook.jar](https://github.com/kailanguage/NetLook/blob/master/NetLook.jar)  demo版本仅在windows上正常运行
+* 运行源码：[NetLook](https://github.com/kailanguage/NetLook/tree/master/NetLook)  使用可以编译JavaFX的编译器编译源码
 
 ## FAQ
-*** Q: 为什么软件在mac上无法查看网络信息？***
+***Q: 为什么软件在mac上无法查看网络信息？***
 
 A: 目前源码和Demo仅在win上运行正常.
 
-*** Q:为什么其他按钮点击没有反应？***
+***Q:为什么其他按钮点击没有反应？***
 
 A: 源码主要为界面设计，编译可运行，正常显示当前系统（win）的网络状态，其他按钮没有实现处理事件.
 
-*** Q:为什么我下载的在编译器上出现中文乱码？***
+***Q:为什么我下载的在编译器上出现中文乱码？***
 
 A: 请将编译器编码UTF-8改为GBK.
 
