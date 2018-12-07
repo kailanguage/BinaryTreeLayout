@@ -56,7 +56,7 @@ A: 请将编译器编码UTF-8改为GBK.
 2022 代码重构
 
 ## TAGS
-[![](https://img.shields.io/badge/blog-kailanguage-blue.svg)](https:kailanguage.github.io)
+[![](https://img.shields.io/badge/blog-kailanguage-blue.svg)](https://kailanguage.github.io)
 ![](https://img.shields.io/badge/ver-1.0.0-yellow.svg)
 ![](https://img.shields.io/badge/JavaFX-2.0-green.svg)
 [![GitHub license](https://img.shields.io/github/license/kailanguage/NetLook.svg)](https://github.com/kailanguage/NetLook/blob/master/LICENSE)
