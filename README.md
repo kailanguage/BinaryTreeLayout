@@ -3,7 +3,7 @@
 ***计算机的通信应该对用户透明和被完全掌控***
 
 <h1 align="center">
-    <a href="https://kailanguage.github.io/netlook">NetLook网站介绍</a>
+    <a href="https://www.kailanguage.top/netlook">NetLook网站介绍</a>
 </h1>
 
 <h1 align="center">
