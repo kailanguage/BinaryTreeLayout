@@ -1,6 +1,6 @@
 # NetLook
 
-***计算机的通信应该对用户透明和被完全掌控***
+***开源开发课程实践作业(Nofun)***
 
 <h1 align="center">
     <a href="https://www.kailanguage.top/netlook">NetLook网站介绍</a>
